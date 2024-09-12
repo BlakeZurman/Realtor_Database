@@ -12,6 +12,8 @@ This repository includes the conceptual model, the logical model, and all the SQ
 
 [Google Drive Link] https://drive.google.com/file/d/1faJyoCOm-IZZ70aApmeJVCxqmfgcPktf/view?usp=drive_link
 
+This video shows me presenting the whole project, however this particular video has audio issues in some places, but you can still understand everything.
+
 ### Conceptual Model ###
 
 This model has base entities including *Client, Agent, Office, and Property.* The other entities, *Appointment & Sale* are connected to these key entites using appropriate cardinality. It was my goal in creating this conceptual model to keep things simpleand expandable while ensuring good practice. Most importantly, this model is designed in a way that anyone can understand. It is my belief that my strong foundation in the fundementals of database modeling are of value to any business. 
