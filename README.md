@@ -8,6 +8,10 @@ The chosen topic for this project was to create a Database that demonstrates my 
 ## Repostory_Contents ##
 This repository includes the conceptual model, the logical model, and all the SQL scripts for this database to function. It does not require any packages, or CSV files.
 
+### Live Presentation ###
+
+[Google Drive Link] https://drive.google.com/file/d/1faJyoCOm-IZZ70aApmeJVCxqmfgcPktf/view?usp=drive_link
+
 ### Conceptual Model ###
 
 This model has base entities including *Client, Agent, Office, and Property.* The other entities, *Appointment & Sale* are connected to these key entites using appropriate cardinality. It was my goal in creating this conceptual model to keep things simpleand expandable while ensuring good practice. Most importantly, this model is designed in a way that anyone can understand. It is my belief that my strong foundation in the fundementals of database modeling are of value to any business. 
